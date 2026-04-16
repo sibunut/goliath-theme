@@ -1,0 +1,20 @@
+{
+    "name": "goliath-theme",
+    "displayTheme": "Goliath Theme",
+    "description": "A simple theme inspired by the themes of One Monokai and Breeze",
+    "version": "1.0.0",
+    "publisher": "sibunut",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "catigories": ["Themes"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Goliath Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/goliath-color-theme.json"
+            }
+        ]
+    }
+}
