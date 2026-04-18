@@ -26,8 +26,8 @@
 
 ## Попередній перегляд
 
-![Попередній перегляд темної теми Goliath](https://raw.githubusercontent.com/sibunut/goliath-theme/main/preview-dark.png)
-![Попередній перегляд світлої теми Goliath](https://raw.githubusercontent.com/sibunut/goliath-theme/main/preview-light.png)
+![Попередній перегляд темної теми Goliath](https://github.com/user-attachments/assets/4a89585f-8c7d-4f79-ac5f-743ab32c8add)
+![Попередній перегляд світлої теми Goliath](https://github.com/user-attachments/assets/a2b7a99d-ce5a-4742-b59f-ce3c69076a33)
 
 ---
 
