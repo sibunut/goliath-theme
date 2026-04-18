@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="README.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/330px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"> English</a> | 
-  <a href="README.ru.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png"> Русский</a> | 
+  <a href="README.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/330px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"> English</a> 
+  <a href="README.ru.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png"> Русский</a> 
   <a href="README.isv.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Interslavic.svg/1280px-Flag_of_Interslavic.svg.png"> Mędzuslovjansky</a>
 </p>
 
