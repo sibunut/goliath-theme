@@ -1,30 +1,70 @@
-# Goliath Theme
+# 🎨 Goliath Theme for VSCode
 
-A simple theme for VS Code inspired by the One Monokai and Breeze themes, with a touch of coziness.
+![Version](https://img.shields.io/badge/version-2.1.0-blue)
+![VSCode](https://img.shields.io/badge/VSCode-^1.80.0-007ACC)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-<img width="1919" height="1019" alt="изображение" src="https://github.com/user-attachments/assets/46ce3836-bb0d-46bd-897e-ed7880e2130a" />
+**Goliath** is an exotic and harmonious theme for Visual Studio Code with a unique pastel palette. Available in dark and light variants.
 
-## How to build
+> 🌐 **Read this in another language:**
+> - 🇷🇺 [Русский](./README.ru.md)
+> - 🇺🇦 [Українська](./README.uk.md)
+> - 🌍 [Medžuslovjansky](./README.isv.md) *(Interslavic)*
 
-Use `npm` to build.
+![Goliath Dark Preview](https://raw.githubusercontent.com/sibunut/goliath-theme/main/preview-dark.png)
+![Goliath Light Preview](https://raw.githubusercontent.com/sibunut/goliath-theme/main/preview-light.png)
 
-```Bash
-npm install -g vsce
+---
+
+## 🎨 Palette
+
+### Dark Theme
+
+| Element | Color | Hex |
+|---------|-------|-----|
+| Comments | Muted Mint | `#6a8a7a` |
+| Strings | Warm Amber | `#d4a06a` |
+| Numbers | Lavender | `#b89bb8` |
+| Keywords | Cool Cyan | `#6a9a9a` |
+| Types (int, char) | Olive | `#8aaa7a` |
+| Structs/typedef | Sea Green | `#6aaa9a` |
+| Functions | Muted Blue | `#7a9ac4` |
+| Classes | Terracotta | `#c47a7a` |
+| Variables | Greige | `#b0a090` |
+| Preprocessor `#` | Copper | `#a06050` |
+| Directives `#define` | **Bold Copper** | `#c48a6a` |
+| Format `%d` | Lilac | `#b89ac4` |
+
+### Light Theme
+
+| Element | Color | Hex |
+|---------|-------|-----|
+| Comments | Mint | `#408060` |
+| Strings | Amber | `#a05020` |
+| Numbers | Purple | `#6030a0` |
+| Keywords | Cyan | `#106060` |
+| Types (int, char) | Green | `#208040` |
+| Structs/typedef | Teal | `#108060` |
+| Functions | Blue | `#2050c0` |
+| Classes | Red | `#c03030` |
+
+---
+
+## 📦 Installation
+
+### From Marketplace (Recommended)
+
+1. Open VSCode
+2. Press `Ctrl+Shift+X`
+3. Search for **Goliath Theme**
+4. Click **Install**
+5. Press `Ctrl+K Ctrl+T` and select `Goliath Dark` or `Goliath Light`
+
+### Manual Installation
+
+```bash
+git clone https://github.com/sibunut/goliath-theme.git
+cd goliath-theme
+npm install -g @vscode/vsce
 vsce package
-```
-
-## Installing
-
-1. Download the latest `.vsix` file from the [Releases page](https://github.com/sibunut/goliath-theme/releases)
-
-2. Install via VS Code:
-   - Press Ctrl+Shift+P (or Cmd+Shift+P on macOS)
-   - Type: Extensions: Install from VSIX...
-   - Select the downloaded .vsix file
-
-   OR via command line:
-   code --install-extension goliath-theme-1.0.0.vsix
-
-3. Activate the theme:
-   - Press Ctrl+K Ctrl+T (or Cmd+K Cmd+T)
-   - Select "Goliath Theme"
+code --install-extension goliath-theme-2.1.0.vsix

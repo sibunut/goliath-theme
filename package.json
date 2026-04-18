@@ -1,20 +1,64 @@
 {
-    "name": "goliath-theme",
-    "displayTheme": "Goliath Theme",
-    "description": "A simple theme inspired by the themes of One Monokai and Breeze",
-    "version": "1.0.0",
-    "publisher": "sibunut",
-    "engines": {
-        "vscode": "^1.80.0"
-    },
-    "catigories": ["Themes"],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Goliath Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/goliath-color-theme.json"
-            }
-        ]
-    }
+  "name": "goliath-theme",
+  "displayName": "Goliath Theme",
+  "description": "Exotic dark and light themes with unique pastel palette. Features italic primitive types, bold pointers, distinct preprocessor colors, and support for C/C++, Rust, Zig, Nim, Assembly, Haskell, and more",
+  "version": "2.0.0",
+  "publisher": "goliath",
+  "author": {
+    "name": "Goliath"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sibunut/goliath-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sibunut/goliath-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/sibunut/goliath-theme/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1c1c1c",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "goliath",
+    "pastel",
+    "exotic",
+    "rust",
+    "zig",
+    "nim",
+    "assembly",
+    "c++",
+    "haskell",
+    "italic types",
+    "bold pointers"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Goliath Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/goliath-dark.json"
+      },
+      {
+        "label": "Goliath Light",
+        "uiTheme": "vs",
+        "path": "./themes/goliath-light.json"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  }
 }
