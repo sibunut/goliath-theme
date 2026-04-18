@@ -26,8 +26,8 @@
 
 ## Предпросмотр
 
-![Предпросмотр тёмной темы Goliath](https://raw.githubusercontent.com/sibunut/goliath-theme/main/preview-dark.png)
-![Предпросмотр светлой темы Goliath](https://raw.githubusercontent.com/sibunut/goliath-theme/main/preview-light.png)
+![Предпросмотр тёмной темы Goliath](https://github.com/user-attachments/assets/4a89585f-8c7d-4f79-ac5f-743ab32c8add)
+![Предпросмотр светлой темы Goliath](https://github.com/user-attachments/assets/a2b7a99d-ce5a-4742-b59f-ce3c69076a33)
 
 ---
 
