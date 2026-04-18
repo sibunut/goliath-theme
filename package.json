@@ -1,9 +1,9 @@
 {
   "name": "goliath-theme",
   "displayName": "Goliath Theme",
-  "description": "Exotic dark and light themes with unique pastel palette. Features italic primitive types, bold pointers, distinct preprocessor colors, and support for C/C++, Rust, Zig, Nim, Assembly, Haskell, and more",
-  "version": "2.0.0",
-  "publisher": "goliath",
+  "description": "An exotic and harmonious theme for Visual Studio Code with a unique pastel palette. Available in dark and light variants.",
+  "version": "2.1.0",
+  "publisher": "sibunut",
   "author": {
     "name": "Goliath"
   },
