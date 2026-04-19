@@ -1,19 +1,25 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/153941547/580365920-98329ba8-cdd5-45bf-b540-2c1408eb78bf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY1NDYxODIsIm5iZiI6MTc3NjU0NTg4MiwicGF0aCI6Ii8xNTM5NDE1NDcvNTgwMzY1OTIwLTk4MzI5YmE4LWNkZDUtNDViZi1iNTQwLTJjMTQwOGViNzhiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxOFQyMDU4MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYjExYTg5YjIzM2M2YmRiNTg4ZTY5ZWZjZjVhNWNlM2I1YTIwMzJlNmVmMTY5YWYzOGIwOWYxYWZhZjBkMjFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.h-SAY9RUh-XOMK60kwI-6adc9wJXRmXtVkIMiL3Mzlg" alt="Goliath Theme" width="400" height="400">
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/993fa35b-7fca-4d1d-b030-e465e4e8ff6b"/>
 </p>
 
 <h1 align="center">Goliath Theme for VSCode</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.1.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/version-2.2.1-blue" alt="Version">
   <img src="https://img.shields.io/badge/VSCode-^1.80.0-007ACC" alt="VSCode">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
 </p>
 
 <p align="center">
-  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.ru.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png"> Русский</a> | 
-  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.ua.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png"> Українська</a> | 
-  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.isv.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Interslavic.svg/1280px-Flag_of_Interslavic.svg.png"> Mędzuslovjansky</a>
+  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.ru.md">
+    <img height="12" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png"> Русский
+  </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.ua.md">
+    <img height="12" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png"> Українська
+  </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.isv.md">
+    <img height="12" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Interslavic.svg/1280px-Flag_of_Interslavic.svg.png"> Mędzuslovjansky
+  </a>
 </p>
 
 <p align="center">
@@ -27,7 +33,6 @@ The motivation for creating this theme was that in my country, the ability to do
 ## Preview
 
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/15c054e1-ddd6-42aa-8a9a-5a23be46d0ea" />
-
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/df4c0990-5eb1-4d9b-aeca-6fa4d0b5c9cb" />
 
 ---
