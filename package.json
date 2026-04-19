@@ -1,0 +1,73 @@
+{
+  "name": "goliath-theme",
+  "displayName": "Goliath Theme",
+  "description": "An exotic and harmonious theme for Visual Studio Code with a unique pastel palette. Available in dark and light variants.",
+  "version": "2.2.1",
+  "publisher": "sibunut",
+  "author": {
+    "name": "Goliath"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sibunut/goliath-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sibunut/goliath-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/sibunut/goliath-theme/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1c1c1c",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "goliath",
+    "pastel",
+    "exotic",
+    "rust",
+    "zig",
+    "nim",
+    "assembly",
+    "c++",
+    "haskell",
+    "italic types",
+    "soft",
+    "smooth",
+    "dark",
+    "light",
+    "modern",
+    "cosy",
+    "gruvbox",
+    "one monokai",
+    "breeze",
+    "nice"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Goliath Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/goliath-dark.json"
+      },
+      {
+        "label": "Goliath Light",
+        "uiTheme": "vs",
+        "path": "./themes/goliath-light.json"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  }
+}
