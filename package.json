@@ -2,7 +2,7 @@
   "name": "goliath-theme",
   "displayName": "Goliath Theme",
   "description": "An exotic and harmonious theme for Visual Studio Code with a unique pastel palette. Available in dark and light variants.",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "publisher": "sibunut",
   "author": {
     "name": "Goliath"

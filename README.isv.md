@@ -5,7 +5,7 @@
 <h1 align="center">Goliath Theme za VSCode</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.2.1-blue" alt="Version">
+  <img src="https://img.shields.io/badge/version-2.2.2-blue" alt="Version">
   <img src="https://img.shields.io/badge/VSCode-^1.80.0-007ACC" alt="VSCode">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
 </p>
