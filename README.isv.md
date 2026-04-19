@@ -1,19 +1,25 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/153941547/580365920-98329ba8-cdd5-45bf-b540-2c1408eb78bf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY1NDYxODIsIm5iZiI6MTc3NjU0NTg4MiwicGF0aCI6Ii8xNTM5NDE1NDcvNTgwMzY1OTIwLTk4MzI5YmE4LWNkZDUtNDViZi1iNTQwLTJjMTQwOGViNzhiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxOFQyMDU4MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYjExYTg5YjIzM2M2YmRiNTg4ZTY5ZWZjZjVhNWNlM2I1YTIwMzJlNmVmMTY5YWYzOGIwOWYxYWZhZjBkMjFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.h-SAY9RUh-XOMK60kwI-6adc9wJXRmXtVkIMiL3Mzlg" alt="Goliath Theme" width="400" height="400">
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/993fa35b-7fca-4d1d-b030-e465e4e8ff6b"/>
 </p>
 
 <h1 align="center">Goliath Theme za VSCode</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.1.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/version-2.2.1-blue" alt="Version">
   <img src="https://img.shields.io/badge/VSCode-^1.80.0-007ACC" alt="VSCode">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
 </p>
 
 <p align="center">
-  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/330px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"> English</a> | 
-  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.ru.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png"> Русский</a> | 
-  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.ua.md"><img height=8 width=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png"> Українська</a>
+  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.md">
+    <img height=12 width=16 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/330px-Flag_of_the_United_Kingdom_%281-2%29.svg.png">
+   English</a><br>
+  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.ru.md">
+    <img height="12" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png"> Русский
+  </a><br>
+  <a href="https://github.com/sibunut/goliath-theme/blob/main/README.ua.md">
+    <img height="12" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png"> Українська
+  </a><br>
 </p>
 
 <p align="center">❗<u>WARNING: The translation into <b>Interslavic</b> may be inaccurate and contain errors, as it was translated <b>by AI</b>.</u>❗</p>
@@ -28,9 +34,8 @@ Motivacija stvorjenja sej temy byla to, že v mojej državě zablokovali možnos
 
 ## Predogled
 
-![Predogled temne teme Goliath](https://private-user-images.githubusercontent.com/153941547/580424650-c3d62bc5-dd63-40e0-a8c9-6d1c1d3e78e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY1OTcxNzYsIm5iZiI6MTc3NjU5Njg3NiwicGF0aCI6Ii8xNTM5NDE1NDcvNTgwNDI0NjUwLWMzZDYyYmM1LWRkNjMtNDBlMC1hOGM5LTZkMWMxZDNlNzhlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxOVQxMTA3NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYmNlYTFkMDQwNmNhMmIzNTMzOWJiOWQ5ZGE3N2Q1M2QxZWMzYzE5OWMyYWU0NTYyMjIyYjU4ZThhNzYyMzA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.flj7X9pOFFDGeC79lLWuB-ICm_ard7yaCTPUxLi_XsY)
-
-![Predogled svitle teme Goliath](https://private-user-images.githubusercontent.com/153941547/580426136-563b45fc-aef4-45b1-b017-1ad6a71fdebb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY1OTgyMDksIm5iZiI6MTc3NjU5NzkwOSwicGF0aCI6Ii8xNTM5NDE1NDcvNTgwNDI2MTM2LTU2M2I0NWZjLWFlZjQtNDViMS1iMDE3LTFhZDZhNzFmZGViYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxOVQxMTI1MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MTk2YTA0MmY3ODBhMTU2YWNmMGI3YWI4NWY3MDEwNDI3OWM5MTdlOTQ2OTY4ZTUzMjEyYTQxYjA5YmI5YjJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.yJljKSI75_KQbVNHlsAxZxHs1ypm-s7uguRA_8Hts7Q)
+<img alt="image" src="https://github.com/user-attachments/assets/15c054e1-ddd6-42aa-8a9a-5a23be46d0ea"/>
+<img alt="image" src="https://github.com/user-attachments/assets/df4c0990-5eb1-4d9b-aeca-6fa4d0b5c9cb"/>
 
 ---
 
